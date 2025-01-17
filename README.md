@@ -2,6 +2,6 @@
 
 <h3>My Tools:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,c,python,linux" alt="languages">
-<h2>Osint <hr>
+<h2>Osint <br>
   NetWork+ 
   CSCU</h2>
