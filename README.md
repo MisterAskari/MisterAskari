@@ -8,5 +8,6 @@
 
 <h3>My Favorites:</h3>
 <h2>.Osint <br>
-  NetWork+ <br>
-  CSCU</h2>
+  .NetWork+ <br>
+  .CSCU
+  .Web Scraping</h2>
