@@ -2,6 +2,8 @@
 
 <h3>My Tools:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,c,python,linux" alt="languages">
-<h2>Osint <br>
+<h3>Osint <br>
   NetWork+ <br>
-  CSCU</h2>
+  CSCU</h3>
+<h3>For Fun:</h3>
+<img src="https://skillicons.dev/icons?i=wordpress,vscode,git">
