@@ -9,5 +9,5 @@
 <h3>My Favorites:</h3>
 <h2>.Osint <br>
   .NetWork+ <br>
-  .CSCU
+  .CSCU <br>
   .Web Scraping</h2>
