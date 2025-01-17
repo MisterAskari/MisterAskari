@@ -7,6 +7,6 @@
 <img src="https://skillicons.dev/icons?i=wordpress,vscode,git">
 
 <h3>My Favorites:</h3>
-<h2>Osint <br>
+<h2><b>.</b>Osint <br>
   NetWork+ <br>
   CSCU</h2>
